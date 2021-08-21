@@ -1,2 +1,5 @@
 # Proyecto-Reloj
-Desarrollar el código fuente de  reloj
+Agregar las variables
+vertical_position = 0
+vertical_position_2 = 0
+vertical_position_3 = 0
